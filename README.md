@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajesh Kumar
 - 👀 I’m interested in open source technologies.
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently exploring Big Data, Hadoop & AI.
 - 💞️ I’m looking to collaborate on AI and Cloud technologies.
 - 📫 Reach me at https://www.linkedin.com/in/rmaner/
 
